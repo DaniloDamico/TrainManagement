@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "Login",
+	"password": "Login",
+	"port": 3306,
+	"database": "Trasporto_Ferroviario_Alta_Velocita"
+}
+

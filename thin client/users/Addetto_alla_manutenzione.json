@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "Addetto_alla_manutenzione",
+	"password": "Addetto_alla_manutenzione",
+	"port": 3306,
+	"database": "Trasporto_Ferroviario_Alta_Velocita"
+}
+
